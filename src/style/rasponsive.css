@@ -1,0 +1,314 @@
+@media only screen and (max-width: 1366px) {
+    .top_menu {
+        padding: 10px 40px;
+    }
+    .social_icon_txt {
+        margin-right: 10px;
+    }
+    .splide__pagination {
+        bottom: 50px !important;
+    }
+    .slider_images_area {
+        width: 75%;
+    }
+    .slider_text {
+        padding-top: 20%;
+    }
+    .services_box{
+        width: 90%;
+    }
+    .expereance_area {
+        right: -12% !important;
+    }
+    .services_text {
+        padding-top: 80px;
+    }
+    .footer_cliend img {
+        margin-right: 40px;
+    }
+    .about_bg {
+        right: 0%;
+    }
+    .footerBg_02 {
+        left: 80%;
+    }
+    .footer_bottm {
+        width: 98%;
+    }
+    .footer_cliend {
+        width: 98%;
+    }
+    .footer_cliend img {
+        margin-right: 36px;
+    }
+  }
+
+  @media only screen and (max-width: 1280px) {
+    .top_menu {
+        padding: 10px 35px;
+    }
+    .nav-links li {
+        padding: 20px 20px;
+    }
+    .slider_text h3 {
+        font-size: 47px;
+    }
+    .social_icon_txt {
+        font-size: 13px;
+        line-height: 30px;
+    }
+    .footer_cliend img {
+        margin-right: 26px;
+    }
+    .footer_cliend {
+        left: 0;
+    }
+    .slider_images_area {
+        left: 40%;
+    }
+  }
+
+  @media only screen and (max-width: 1024px) {
+    .top_menu {
+        padding: 10px 22px;
+    }
+    .nav-links {
+        width: 69%;
+    }
+    .header_contact {
+        padding: 13px 25px !important;
+    }
+    .nav-links li {
+        padding: 20px 15px;
+    }
+    .slider_text h3 {
+        font-size: 30px;
+    }
+    .slider_text .slider_border::before, .slider_text .slider_border::after {
+        top: 55px;
+    }
+    .slider__icon {
+        width: 20px;
+        margin-right: 5px;
+    }
+    .social_icon_txt {
+        font-size: 11px;
+        line-height: 15px;
+    }
+    .splide__pagination {
+        bottom: 33px !important;
+    }
+    .slider_images_area {
+        width: 90%;
+    }
+    .services_text h3 {
+        font-size: 39px;
+        line-height: 55px;
+    }
+    .expereance_area {
+        right: -17% !important;
+    }
+    .dervices_one h3 {
+        padding-bottom: 7px;
+        font-size: 19px;
+        line-height: 29px;
+    }
+    .dervices_one {
+        padding: 25px 30px;
+    }
+    .dervices_one p {
+        font-size: 13px;
+    }
+    .dervices_one svg {
+        font-size: 46px;
+        margin-bottom: 15px;
+    }
+    .about_contant h3 {
+        font-size: 30px;
+    }
+    .about_images img {
+        width: 100% !important;
+    }
+    .footer_cliend {
+        display: none;
+    }
+  }
+
+  @media only screen and (max-width: 768px) {
+      .top_header {
+          display: none;
+      }
+
+  .top_menu {
+	padding: 10px 5px;
+}
+.nav-links li {
+	padding: 20px 10px;
+}
+.nav-links a {
+	font-size: 12px;
+}
+.slider_text h3 {
+	font-size: 18px;
+	line-height: 30px;
+}
+.slider_text .slider_border::before, .slider_text .slider_border::after {
+	top: 40px;
+}
+.slider_text h6 {
+	padding-bottom: 10px;
+}
+.social_icon_txt {
+	font-size: 13px;
+	line-height: 20px;
+	padding-bottom: 6px;
+}
+.slider_images_area {
+	top: 0;
+}
+.expereance_area {
+	right: -25% !important;
+}
+.about_projt {
+	margin-right: 15px;
+}
+.about_bg {
+	display: none;
+}
+.footer_text h3 {
+	font-size: 14px;
+}
+.footer_imput01 {
+	padding: 15px 20px;
+	font-size: 13px;
+}
+.footer_text p {
+	font-size: 13px;
+}
+.header_contact {
+	padding: 8px 25px !important;
+	margin-top: 13px;
+}
+.footerBg_02 {
+	left: 65%;
+	width: 20%;
+}
+.footer_area {
+	padding-top: 55px;
+}
+.footer_bottm {
+    width: 95%;
+    bottom: -50px;
+}
+.logo img {
+	width: 70%;
+}
+  }
+
+  @media only screen and (max-width: 640px) {
+
+.burger {
+	right: 15px;
+	position: fixed;
+	top: 20px;
+	z-index: 999;
+}
+.nav-links {
+	z-index: 1;
+	right: 0px;
+	height: 100vh;
+	background: #fff;
+	width: 40%;
+	box-shadow: 0px 3px 35px 0px rgba(0, 0, 0, 0.14);
+	top: 0;
+	position: fixed;
+}
+
+.splide__pagination {
+    left: 78%;
+	bottom: 55px !important;
+}
+.services_area {
+    padding: 0px !important;
+}
+.slider_images_area{
+    display: none;
+}
+.splide__pagination {
+    display: none !important ;
+}
+.services_area {
+	padding: 0 0;
+}
+.expereance_area {
+	right: -28% !important;
+}
+.burger {
+	float: right !important;
+}
+.slider_text {
+	padding-top: 8%;
+}
+.services_text {
+	padding-top: 35px;
+}
+.services_box {
+	margin-top: 30px;
+}
+.footerBg_01, .footerBg_02 {
+    display: none;
+}
+.footer_text p {
+	padding-top: 5% !important;
+	text-align: center;
+}
+.footer_bottm {
+	position: inherit;
+	bottom: 0px !important;
+}
+/* .footer_bottm {
+	position: inherit;
+	background: #040404;
+}
+.footer_bottm {
+	width: 100%;
+}
+.footer_text p {
+	padding-top: 0%;
+}
+.footer_p_right {
+	text-align: center !important;
+	margin-top: 15px !important;
+} */
+
+  }
+
+
+  @media only screen and (max-width: 320px) {
+    .protfolio_area .tabs {
+        width: 100%;
+    }
+  .footerBg_01 {
+        width: 34%;
+        left: 3%;
+    }
+    .footerBg_02 {
+        width: 45%;
+    }
+    .footer_imput01 {
+        padding: 15px 18px;
+        font-size: 11px;
+    }
+    .subscribe_footer {
+        padding: 15px 16px;
+        font-size: 13px;
+    }
+    .team_header h3 {
+        font-size: 16px;
+    }
+    .expereance_area {
+        right: -60% !important;
+    }
+  }
+
+
